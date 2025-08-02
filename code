@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Kameryn Key | Writing the spaces between reality and imagination</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Kameryn Key writes contemporary, fantasy, and speculative fiction about identity, liminal spaces, and hidden truths." />
+  <style>
+    :root {
+      --max-width: 800px;
+      --font-stack: "Times New Roman", Georgia, serif;
+      --transition: 0.25s ease;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      color: #111;
+      font-family: var(--font-stack);
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+    }
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+    a:hover {
+      opacity: .8;
+    }
+    .container {
+      max-width: var(--max-width);
+      padding: 2rem 1rem;
+      margin: 0 auto;
+    }
+    .headline {
+      font-size: 1.25rem;
+      font-style: italic;
+      margin: 0 0 1rem 0;
+    }
+    .name {
+      font-size: 2.2rem;
+      margin: 0 0 0.25rem 0;
+      letter-spacing: 0.5px;
+    }
+    .section {
+      margin-bottom: 2.25rem;
+      position: relative;
+    }
+    .work-title {
+      font-weight: bold;
+      margin: 1rem 0 0.25rem 0;
+      font-size: 1.1rem;
+    }
+    .small {
+      font-size: 0.85rem;
+    }
+    .divider {
+      width: 60px;
+      height: 2px;
+      background: #111;
+      margin: 1rem 0 2rem 0;
+    }
+    .footer {
+      font-size: 0.75rem;
+      color: #555;
+      margin-top: 4rem;
+      border-top: 1px solid #eee;
+      padding-top: 1rem;
+    }
+    .social {
+      margin: .5rem 0 0 0;
+    }
+    @media (max-width: 900px) {
+      .name { font-size: 1.9rem; }
+    }
+  </style>
+</head>
+<body>
+  <main class="container" aria-label="Author platform for Kameryn Key">
+    <div class="section">
+      <h1 class="name">Kameryn Key</h1>
+      <div class="headline">Writing the spaces between reality and imagination</div>
+      <div class="divider" aria-hidden="true"></div>
+      <p>I’m Kameryn Key, a writer of contemporary, fantasy, and speculative fiction with a focus on identity, self-discovery, and the liminal moments when reality shifts and hidden truths surface. My work centers on characters caught between worlds—literal, emotional, or societal—and how they reconcile who they are with who they are expected to be. These stories aim to linger, to make readers feel the weight of what’s unsaid as much as what is spoken.</p>
+      <p>Currently completing my degree in creative writing, I’ve built a foundation in narrative structure, character development, and thematic layering. While I’m still emerging in the publishing landscape, I’m actively preparing submissions for literary journals and seeking representation for my debut novel. My goal is to connect with readers who crave emotionally complex, character-driven fiction that blurs boundaries and provokes reflection.</p>
+      <p>When I’m not writing, I explore worldbuilding and photography—both inform the textures and atmospheres of my work, grounding speculative elements in emotional reality.</p>
+    </div>
+
+    <div class="section">
+      <div class="work-title">Shadowrise Institute</div>
+      <p>Victoria Denise Halliwell-Becker wakes up in a locked classroom with no memory of her past or how she arrived there. The other students are strangers, yet there’s something unsettlingly familiar about them—and about the institute itself. As she hunts for answers, she learns the Shadowrise Institute holds more than academic secrets. Truth is fluid, memory unreliable, and survival depends on navigating a game she never agreed to play.</p>
+
+      <div class="work-title">Hollow Spring</div>
+      <p>In a rural town shaped by legend, a grieving woman discovers a spring reputed to let visitors glimpse lost loved ones. As myth bleeds into her waking life, she must decide how far she’ll go to reclaim what’s gone—and whether some doors, once opened, can ever be closed.</p>
+    </div>
+
+    <div class="section">
+      <p class="small">Follow the journey, see in-progress thoughts, and get behind-the-scenes glimpses:</p>
+      <p class="social">Tumblr: <a href="https://kamerynkeywrites.tumblr.com" target="_blank" rel="noopener noreferrer">kamerynkeywrites</a></p>
+    </div>
+
+    <div class="footer">
+      <p>Site coded and maintained by Kameryn Key. Designed to foreground story and voice. Future expansions include sample chapters, a blog log, and a mailing list signup.</p>
+    </div>
+  </main>
+</body>
+</html>
